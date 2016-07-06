@@ -36,4 +36,6 @@ sudo firefox -install-global-extension addon-494068-latest.xpi
 firefox Bus-Shelter/bus-shelter.html &
 ```
 
+The following url ([http://egauge34.egaug.es/](http://egauge34.egaug.es/)) in the bus-shelter.html file will need to be changed to the web address for our current EGauge EG3000 monitoring system. Right now it points to a public egauge monitoring system and not to our current system. 
+
 Press F11 in Firefox to enable full screen and the display should be good to go!
